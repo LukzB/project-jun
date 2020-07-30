@@ -10,7 +10,7 @@ I've uploaded a video showcasing Jun's full move list, including sample combos, 
 This moveset mod is based on Jun Kazama's TEKKEN TAG TOURNAMENT 2 moveset, designed and animated by Bandai Namco and the Tekken Project. This is only a fan-made moveset, made by replicating existing behaviors and animations from TEKKEN 7, game also designed and animated by Bandai Namco and the Tekken Project. Any resemblance or similarity with unannounced or unreleased content for TEKKEN 7 is purely coincidental. The mod has been tested and it's safe to use, but I do not take any responsibility for any harm or damage it may cause to your computer.
 
 # Download links
-- Moveset: https://github.com/LukzB/project-jun/releases.
+- Moveset: https://github.com/LukzB/project-jun/releases
 - Tekken Moveset Extractor by Kiloutre: https://github.com/Kiloutre/TekkenMovesetExtractor/releases
 
 # How to use
